@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:ContactForm.Localization"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="Save">Save</sys:String>
+    <sys:String x:Key="FirstName">First Name</sys:String>
+    <sys:String x:Key="LastName">Last Name</sys:String>
+    <sys:String x:Key="Address">Address</sys:String>
+    <sys:String x:Key="Phone">Phone</sys:String>
+    
+</ResourceDictionary>
